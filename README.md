@@ -7,7 +7,7 @@ This is the main repository for all of the projects in the course.
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Expanding Cards](https://github.com/PacktPublishing/50-Projects-In-50-Days---HTML-CSS-JavaScript/tree/main/expanding-cards)                             | [Live Demo](https://50projects50days.com/projects/expanding-cards/)               |
+| 01  | [Expanding Cards](https://github.com/sothengski/50-HTML-CSS-JS-Projects/tree/main/expanding-cards)                             | [Live Demo](https://50projects50days.com/projects/expanding-cards/)               |
 
 
 ## License
